@@ -34,9 +34,11 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+cd  to change the directory because if you have many folder or file and you didn't have the cd it will hard to change the directory
+pwd to show the current position because in some systems, the path line will not shown in terminal and you have to know where you are, so useful together with cd
 
 2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+First of all, if you don't good at English language then you should think whether you can read fluenly or not.
+If not you should learn english language first. Second, this program is started from basic so you can learn although you don't have knowledge about programing or something about technical background. 
